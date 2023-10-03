@@ -1,6 +1,6 @@
 # Analog_circuits
-course contains analog circuite design theory. 
---
+Course contains analog circuite design theory. 
+---
 ## Table of contents:
 --
 * Chapter 1 : Intro to circuit theory  
