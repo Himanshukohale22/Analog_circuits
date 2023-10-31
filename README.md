@@ -15,3 +15,16 @@ Course contains analog circuite design theory.
 * Chapter 10 : The current mirror. 
 * Chapter 11 : DAC. 
 * Chapter 12 : ADA.
+
+--
+CHAPTER 1 : INTRO TO CIRCUIT THEORY 
+
+* Define an Active Device vs. a Passive Device
+* Apply KVL and KCL to a circuit
+* Create Thevenin and Norton Equivalent Circuits
+* Convert between Thevenin and Norton Equivalent Circuits
+* Use the Superposition Theorem to analyze circuits with multiple sources
+
+
+
+
