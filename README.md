@@ -16,7 +16,8 @@ Course contains analog circuite design theory.
 * Chapter 11 : DAC. 
 * Chapter 12 : ADA.
 
---
+---
+
 CHAPTER 1 : INTRO TO CIRCUIT THEORY 
 
 * Define an Active Device vs. a Passive Device
@@ -24,6 +25,19 @@ CHAPTER 1 : INTRO TO CIRCUIT THEORY
 * Create Thevenin and Norton Equivalent Circuits
 * Convert between Thevenin and Norton Equivalent Circuits
 * Use the Superposition Theorem to analyze circuits with multiple sources
+
+Active components :
+
+An active device is any type of component with the ability to electrically control the flow of current (electricity controlled by electricity)
+
+Passive components :
+
+ Components incapable of controlling current by means of another electrical signal are called passive devices
+
+
+![image](https://github.com/Himanshukohale22/Analog_circuits/assets/114358863/4d72f486-057a-4c5b-a876-e4b023c6956f)
+
+
 
 
 
