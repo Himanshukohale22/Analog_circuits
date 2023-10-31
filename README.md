@@ -20,13 +20,11 @@ Course contains analog circuite design theory.
 
 CHAPTER 1 : INTRO TO CIRCUIT THEORY 
 
-* Define an Active Device vs. a Passive Device
-* Apply KVL and KCL to a circuit
-* Create Thevenin and Norton Equivalent Circuits
-* Convert between Thevenin and Norton Equivalent Circuits
-* Use the Superposition Theorem to analyze circuits with multiple sources
+TOPICS > 
 
-Active components :
+* Define an Active Device vs. a Passive Device
+
+ Active components :
 
 An active device is any type of component with the ability to electrically control the flow of current (electricity controlled by electricity)
 
@@ -36,6 +34,29 @@ Passive components :
 
 
 ![image](https://github.com/Himanshukohale22/Analog_circuits/assets/114358863/4d72f486-057a-4c5b-a876-e4b023c6956f)
+
+
+* Knowledge of basic quantities
+  
+  * Ohm's Law
+  * Passive Circuit Analysis
+  * Kirchhoff's circuit laws
+  * Thevenin and Norton Equivalent Circuits
+  * The Superposition Theorem
+  * Controlled Sources
+  * Ideal operational amplifiersTransformers
+  * Frequency Response
+  * Familiarity with the Spice circuit simulator or similar software
+  * Create Thevenin and Norton Equivalent Circuits
+  * Convert between Thevenin and Norton Equivalent Circuits
+  * Use the Superposition Theorem to analyze circuits with multiple sources
+
+--- 
+
+CHAPTER 2 : ANALOG FILTERS  
+
+
+
 
 
 
